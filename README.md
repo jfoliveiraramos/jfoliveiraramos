@@ -2,9 +2,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ramos</h2> -->
 
-## Ramos
-
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 Ramos
 
 🎓 &nbsp; I'm a Master's Student of Quantum Infomation Science at the University of Copenhagen and the Technical University of Denmark.\
 📖 &nbsp; I'm on track to learn more about Systems Programming, Artificial Intelligence and Scientific Computing.\
