@@ -34,8 +34,8 @@
 
 <p align="left">
 <a href="https://github.com/jfoliveiraramos">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jfoliveiraramos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jfoliveiraramos&theme=onedark&hide_border=false&include_all_commits=true&count_private=true">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jfoliveiraramos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=jfoliveiraramos&theme=onedark&hide_border=false&include_all_commits=true&count_private=true">
 </a>
 </p>
 
