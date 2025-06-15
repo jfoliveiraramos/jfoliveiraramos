@@ -2,16 +2,16 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ramos</h2> -->
 
-### 👨🏻‍💻 About Me
+### Me
 
-🎓 &nbsp; I'm a Master's Student of Quantum Infomation Science at the University of Copenhagen and the Technical University of Denmark.\
-📖 &nbsp; I'm on track to learn more about Systems Programming, Artificial Intelligence and Scientific Computing.\
-💡 &nbsp; Currently I'm working on a Vulkan graphics engine developed with Rust.
+🎓 &nbsp; Master's Student of Quantum Information Science at the University of Copenhagen and the Technical University of Denmark.\
+📖 &nbsp; Learning about Systems Programming, Artificial Intelligence, Scientific Computing and Stochastic Simulation.
 
 <!--  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
-### 🛠 &nbsp;Tech Stack
+### Tech Stack
 
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)&nbsp;
 [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -32,7 +32,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/jfoliveiraramos">
@@ -40,11 +40,11 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### Contacts
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jfoliveiraramos/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](jfoliveiraramos@gmail.com)
 
 -----
 
-Last Edited on: 10/07/2024
+Last Edited on: 15/06/2025
