@@ -5,7 +5,7 @@
 ### Me
 
 🎓 &nbsp; Master's Student of Quantum Information Science at the University of Copenhagen and the Technical University of Denmark.\
-📖 &nbsp; Learning about Systems Programming, Artificial Intelligence, Scientific Computing and Stochastic Simulation.
+📖 &nbsp; Learning on the side about Systems Programming, Artificial Intelligence, Scientific Computing and Stochastic Simulation.
 
 <!--  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
