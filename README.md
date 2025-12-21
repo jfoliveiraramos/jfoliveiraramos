@@ -4,8 +4,12 @@
 
 ### Me
 
-🎓 &nbsp; Master's Student of Quantum Information Science at the University of Copenhagen and the Technical University of Denmark.\
-📖 &nbsp; Learning on the side about Systems Programming, Artificial Intelligence, Scientific Computing and Stochastic Simulation.
+🎓 &nbsp; Master's Student in **Quantum Information Science** at the **University of Copenhagen** and the **Technical University of Denmark**. \
+💻 &nbsp; Part-time **Software Engineer** building scalable **AWS cloud solutions**.  \
+🧪 &nbsp; Researching fault-tolerant **Quantum Error Correction** protocols. \
+📚 &nbsp; Keen on studying **Topological Quantum Field Theories**, and **Quantum Gravity**.  \
+🦀 &nbsp; Learning on the side some **Rust**, **Gleam**, and **Zig**.  \
+👨‍🍳 &nbsp; Michelin chef in another quantum state.
 
 <!--  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
