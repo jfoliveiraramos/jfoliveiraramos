@@ -5,9 +5,10 @@
 ### Me
 
 🎓 &nbsp; Master's Student in **Quantum Information Science** at the **University of Copenhagen** and the **Technical University of Denmark**. \
+🖥️ &nbsp; Part-time Software Maintainer at **NQCP**. \
 🧪 &nbsp; Researching fault-tolerant **Quantum Error Correction** protocols. \
 📚 &nbsp; Keen on studying **Topological Quantum Field Theory**, and **Quantum Gravity**.  \
-🦀 &nbsp; Learning on the side some **Rust**, **Gleam**, and **Zig**.  \
+🦀 &nbsp; Learning on the side some **Rust**, **Gleam**, and **Zig**.  
 
 <!--  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
