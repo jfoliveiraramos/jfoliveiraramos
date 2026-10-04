@@ -5,7 +5,7 @@
 ### Me
 
 🎓 &nbsp; Master's Student in **Quantum Information Science** at the **University of Copenhagen** and the **Technical University of Denmark**. \
-🧪 &nbsp; Researching fault-tolerant **Quantum Error Correction** protocols. \
+🧪 &nbsp; Researching **Quantum Error Correction**. \
 📚 &nbsp; Keen on studying **Topological Quantum Field Theory**, and **Quantum Gravity**.  \
 🦀 &nbsp; Learning on the side some **Rust**, **Gleam**, and **Zig**.  
 
